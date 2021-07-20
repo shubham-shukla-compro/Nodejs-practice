@@ -1,0 +1,1 @@
+Here is the next result: Hi I am inside the first.txt file Hi I am inside the second.txt fileHere is the next result: Hi I am inside the first.txt file Hi I am inside the second.txt file
